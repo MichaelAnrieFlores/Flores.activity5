@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <titleAngela's Cinnammon Roll Recipe></title>
+    <title>Angela's Cinnammon Roll Recipe</title>
 </head>
 <body>
    <ul>
